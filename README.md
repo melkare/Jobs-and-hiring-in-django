@@ -1,7 +1,5 @@
 # jobforme-in-django
 
-it like online service for post jobs and apply those job 
-### pip install django
-### python manage.py makemigration 
-### python manage.py migrate
-### python manage.py runserver
+Online Job portal where people can hire and apply for posted jobs
+
+To run the the project locally , make sure to install all the requirements for requirements.txt
