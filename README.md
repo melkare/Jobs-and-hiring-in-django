@@ -1,4 +1,4 @@
-# jobforme-in-django
+# jobportal-in-django
 
 Online Job portal where people can hire and apply for posted jobs
 
